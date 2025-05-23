@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: The first movement
 permalink: /about
 comments: true
 ---
@@ -8,27 +8,18 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>2024年8月23日，那我们第一次相遇。那天阳光正好，空气里仿佛飘着不知名的花香。谁也没想到，那一天，会成为故事的序章。</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<p>从不经意的对视到一次次相约，我们走过了秋天的落叶，冬日的雪夜，春天的樱花道。聊天、散步、约会、分享彼此的小世界，我们一点一点靠近，在时间的缝隙里悄悄种下了喜欢。.</p>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<p>2025年5月16日，我们终于牵起手，对世界说——我们在一起了。</p>
 
-<h4>Questions or bug reports?</h4>
+<p>也许爱情就是这样，从一个眼神开始，到一个瞬间的坚定，再到一句轻声的“我们”，就足以照亮整个人生的旅途。</p>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>这一页，是我们爱情的第一页。未来还有很多风景，我们想用照片和文字，一起慢慢记录。</p>
 
+<p>欢迎大家，走进我们的故事。</p>
 </div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>
