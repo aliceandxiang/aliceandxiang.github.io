@@ -1,12 +1,11 @@
 ---
+title: "The First Movement"
+date: 2025-05-16 08:30:44 +0800
+tags:
+- 纪念日
 layout: post
-title:  "The First Movement"
-author: sal
-categories: [ Poet, Date ]
-image: assets/images/pickle.jpg
-featured: true
-hidden: true
 ---
+
 # 雨季的韵脚
 
 上海的雨织成遗忘的复调，  
