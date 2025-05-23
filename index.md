@@ -1,7 +1,9 @@
-This is Xiang's personal blog.
+2024年8月23日，那我们第一次相遇。那天阳光正好，空气里仿佛飘着不知名的花香。谁也没想到，那一天，会成为故事的序章。
 
-A second-year student major in Mathematics, Economics and Computer Science. My major research interest is convex optimization, algebric geometry and representative theory.
+从不经意的对视到一次次相约，我们走过了秋天的落叶，冬日的雪夜，春天的樱花道。聊天、散步、约会、分享彼此的小世界，我们一点一点靠近，在时间的缝隙里悄悄种下了喜欢。.</p>
 
-I am an investor engaged in a diverse range of financial products. My portfolio includes investments in U.S. stocks, options, futures, and cryptocurrencies. I am committed to exploring various markets to maximize returns. My investment approach has consistently yielded high returns, demonstrating my expertise and success in the dynamic world of finance.
+2025年5月16日，我们终于牵起手，对世界说——我们在一起了。
 
-I will share something interesting here, especially about my thought in Mathematics, Economics and Computer Science.
+也许爱情就是这样，从一个眼神开始，到一个瞬间的坚定，再到一句轻声的“我们”，就足以照亮整个人生的旅途。
+
+这一页，是我们爱情的第一页。未来还有很多风景，我们想用照片和文字，一起慢慢记录。
