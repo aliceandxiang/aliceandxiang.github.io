@@ -1,8 +1,10 @@
 ---
-title: "龙华寺之旅"
+title: "龙华寺与西岸美术馆之旅"
 date: 2025-05-17 23:40:45 +0800
 tags:
-  - 约会
+  - Date
+  - Shanghai
+  - "2025"
 layout: post
 ---
 
